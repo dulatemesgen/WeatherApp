@@ -2,7 +2,8 @@
 Author: Dula Temesgen
 Program: Tkinter GUI weather application
 
-Enter the zip code or city of the place you want to find the weather for followed by the two digit 
+Enter the zip code or city of the place you want to find the weather for followed by the two digit country code
+for example Des Moines Iowa would be Des Moines, US or 50321, US.
 """
 
 
